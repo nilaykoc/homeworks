@@ -1,6 +1,6 @@
 /*  odev1.c
  *  bu program  girdiğiniz sayılara göre yıldızlarla üçgen yapar
- *  nilay KOÇ
+ *  @nilay KOÇ
  * 
  */
 
